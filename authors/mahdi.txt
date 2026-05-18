@@ -1,3 +1,0 @@
-name: mahdi
-age: 21
-i like programming and fitness
